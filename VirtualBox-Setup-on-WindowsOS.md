@@ -247,11 +247,11 @@
 
 7-21.Ubuntu画面でマウスを右クリックして、`端末を開く`をタップし、下のコマンドを実行する。
 
-```sudo apt updata -y```
-
-```sudo apt upgrade -y```
-
-```sudo apt install gcc make perl -y```
+```
+sudo apt updata -y
+sudo apt upgrade -y
+sudo apt install gcc make perl -y
+```
 
 ## 8- Guest Additionsのインストール
 
