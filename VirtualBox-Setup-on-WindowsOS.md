@@ -251,7 +251,11 @@
 
 ```sudo apt upgrade -y```
 
+```sudo apt install gcc make perl -y```
 
+7-22.ユーザーをグループ化するコマンドを実行。
+
+```sudo adduser <ユーザー名> vboxsf```
 
 ## 8- Guest Additionsのインストール
 
@@ -263,7 +267,7 @@
 
 ![共有フォルダ_6](https://user-images.githubusercontent.com/80440848/184529906-0a2fc427-786a-40f0-b433-a7d38f72b6ab.PNG)
 
-8-3.処理完了のメッセージが表示されましたら`Enter`キーをタップします。
+8-3処理完了のメッセージが表示されましたら`Enter`キーをタップします。
 
 ![共有フォルダ_7](https://user-images.githubusercontent.com/80440848/184530144-5c95c10c-4197-4316-96e5-1b6cd8f78e4b.PNG)
 
