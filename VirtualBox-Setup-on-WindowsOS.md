@@ -245,7 +245,7 @@
 
 ![install_ubuntu21](https://user-images.githubusercontent.com/80440848/184534823-ccb8769c-6477-40e6-afc2-35998cd1b24a.png)
 
-7-21.Ubuntu画面でマウスを右クリックして次に`端末を開く`をタップし、下のコマンドを実行する。
+7-21.Ubuntu画面でマウスを右クリックして、`端末を開く`をタップし、下のコマンドを実行する。
 
 ```sudo apt updata -y```
 
