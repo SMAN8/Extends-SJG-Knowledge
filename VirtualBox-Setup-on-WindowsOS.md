@@ -1,8 +1,8 @@
-# Windows8/10/11 OSでのVirtualBoxのセットアップ `検証済み`
+# Windows10/11 OSでのVirtualBoxのセットアップ
 
 #### 環境
 
-- Windows8/10/11 Home (Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz   1.80 GHz)
+- Windows10/11 Home (Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz   1.80 GHz)
 - 実装RAM 8.00 GB (7.90 GB 使用可能)
 - 64 ビット オペレーティング システム、x64 ベース プロセッサ
 
@@ -143,4 +143,46 @@
 
 ![Setting_Mashine-9](https://user-images.githubusercontent.com/80440848/184467931-80da9d62-98d0-4e6b-b336-d76e1957f307.png)
 
+6-9.**共有フォルダの設定** です。メニュー > 共有フォルダーをタップ。
 
+![共有フォルダ_1](https://user-images.githubusercontent.com/80440848/184518168-a7e59e32-23ea-4ac1-be42-1618267045a8.PNG)
+
+6-10.下の画像のように、フォルダのパスから「その他」を選択し、**ホストPCにある共有するフォルダ名**を選択する。
+
+![共有フォルダ_2-1](https://user-images.githubusercontent.com/80440848/184518243-ef50b2cc-8bb7-4647-8a00-3accf0c584ac.png)
+
+※ホスト側でのフォルダを追加して作成する事も可能です。
+
+6-11.フォルダーのパスのところには、ホストPCに用意してある共有フォルダを選択する。すると自動で下のスペースの`フォルダ名`にも追加される。そして、自動マウントにチェックを入れる。
+
+![共有フォルダ_3](https://user-images.githubusercontent.com/80440848/184518546-593cc394-2583-45c2-8d0b-96b3ced50c1b.png)
+
+6-12.`OK`すると下の画像のようになる。
+
+![共有フォルダ_4](https://user-images.githubusercontent.com/80440848/184518719-56b691c2-82f8-4383-871d-40b3a0f7382c.PNG)
+
+**※共有フォルダの機能が有効になる為には他の設定が必要になります。とりあえず、仮想マシンの環境設定を完了してます。**
+
+## 7- Ubuntu20.04.4のインストール
+
+7-1.起動をタップ。
+
+![install_ubuntu-1](https://user-images.githubusercontent.com/80440848/184519159-4dc7e22d-b97d-4561-ad71-58f48697025e.PNG)
+
+7-2.VirtualBoxの環境設定や仮想マシンのストレージの設定により下の画像がスキップされることがある。もし、下の画像の表示があれば3-2のディスクを選択し、'起動'をタップ。
+
+![install_ubuntu-2](https://user-images.githubusercontent.com/80440848/184519224-d27eaa1b-40c3-4138-836b-15a93aebdb53.png)
+
+7-3.下の画像のようにディスクが起動し始めます。
+
+![install_ubuntu-3](https://user-images.githubusercontent.com/80440848/184519354-4a60ea8e-267c-4cda-952b-5fce4de835aa.png)
+
+7-4.左の枠の中から`日本語`を選択し`Ubuntuをインストール`をタップします。
+
+![install_ubuntu-4](https://user-images.githubusercontent.com/80440848/184519425-07bb4035-2db2-4488-aeaa-166ad6afe889.png)
+
+7-5.そのまま`続ける`をタップ。
+
+![install_ubuntu-5](https://user-images.githubusercontent.com/80440848/184519500-d4cd960c-2773-4ffc-9845-9f32c7806190.png)
+
+7-6.
