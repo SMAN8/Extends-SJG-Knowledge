@@ -121,7 +121,7 @@
 
 ![Setting_Mashine-3](https://user-images.githubusercontent.com/80440848/184466552-1c02f7f2-cf4e-4b4f-b0c5-70a6f1a2bc14.PNG)
 
-6-4.システム > プロセッサー(P)に移動し、プロセッサー数(P)を`2`に変更する。
+6-4.システム > プロセッサー(P)に移動し、プロセッサー数(P)を`2`に変更する。※ディスクを起動してUbuntuのインストールの際にKernelPanicで先に進めない状況になるので、ご自身のPC状況に応じて2以上に設定して下さい。
 
 ![Setting_Mashine-4](https://user-images.githubusercontent.com/80440848/184466800-bcc15b4f-fa88-4319-b601-83ae5b690f28.PNG)
 
