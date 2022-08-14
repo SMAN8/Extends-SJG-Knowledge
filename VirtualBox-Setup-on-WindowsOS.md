@@ -237,6 +237,22 @@
 
 ![install_ubuntu-18](https://user-images.githubusercontent.com/80440848/184529664-a2ccb0e8-ce6b-496f-9b1b-3a3380223f77.png)
 
+7-19.再起動後、ソフトウェアの更新案内があるので、`今すぐインストールする`をタップ。
+
+![install_ubuntu20](https://user-images.githubusercontent.com/80440848/184534669-9db15ca6-8304-4a6f-b940-a9746a2ab97d.png)
+
+7-20.ソフトウェアの更新が完了したら、`すぐに再起動`する。
+
+![install_ubuntu21](https://user-images.githubusercontent.com/80440848/184534823-ccb8769c-6477-40e6-afc2-35998cd1b24a.png)
+
+7-21.Ubuntu画面でマウスを右クリックして次に`端末を開く`をタップし、下のコマンドを実行する。
+
+```sudo apt updata -y```
+
+```sudo apt upgrade -y```
+
+
+
 ## 8- Guest Additionsのインストール
 
 8-1.ホストメイン画面上部の「Devices」タブから「Insert Guest Additions CD image...」⇒`OK`をクリックします。
