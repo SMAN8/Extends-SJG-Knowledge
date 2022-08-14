@@ -165,11 +165,11 @@
 
 ## 7- Ubuntu20.04.4のインストール
 
-7-1.起動をタップ。
+7-1.`起動`をタップ。
 
 ![install_ubuntu-1](https://user-images.githubusercontent.com/80440848/184519159-4dc7e22d-b97d-4561-ad71-58f48697025e.PNG)
 
-7-2.VirtualBoxの環境設定や仮想マシンのストレージの設定により下の画像がスキップされることがある。もし、下の画像の表示があれば3-2のディスクを選択し、'起動'をタップ。
+7-2.VirtualBoxの環境設定や仮想マシンのストレージの設定により下の画像がスキップされることがある。もし、下の画像の表示があれば3-2のディスクを選択し、`起動`をタップ。
 
 ![install_ubuntu-2](https://user-images.githubusercontent.com/80440848/184519224-d27eaa1b-40c3-4138-836b-15a93aebdb53.png)
 
