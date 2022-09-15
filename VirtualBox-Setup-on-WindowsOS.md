@@ -7,7 +7,7 @@
 - 64 ビット オペレーティング システム、x64 ベース プロセッサ
 
 #### ダウンロード/インストール
-- Ubuntu Desktop 20.04.4 LTS
+- Ubuntu Desktop 20.04.5 LTS
 - VirtualBox-6.1.36
 ---
 ## 1- VirtualBoxのダウンロード
@@ -47,13 +47,13 @@
 
 3-1.下の画像の赤い四角のところをタップしてダウンロードします。
 
-- [Ubuntu20.04.4 LTSの入手](https://releases.ubuntu.com/20.04.4/?_ga=2.145106481.424434523.1659109603-1752942665.1659109603)
+- [Ubuntu20.04.5 LTSの入手](https://releases.ubuntu.com/20.04.5/?_ga=2.6860983.463229628.1663223648-397375873.1663223648)
 
-![2-1](https://user-images.githubusercontent.com/80440848/184349563-06b3ad6d-5295-4225-bd7f-6cc880e3d174.png)
+![2-1](https://user-images.githubusercontent.com/80440848/190393206-50bf35c2-26f8-4fb6-a285-e4d1d5051204.png)
 
-3-2.ダウンロードしたubuntu-20.04.4-desktop-amd64を作成したフォルダ(ここではTest_CNodeというフォルダ)に移動しておく。
+3-2.ダウンロードしたubuntu-20.04.5-desktop-amd64を作成したフォルダ(ここではTest_CNodeというフォルダ)に移動しておく。
 
-![4-Ubuntu_download](https://user-images.githubusercontent.com/80440848/184369093-df29585b-bb75-44c4-a3e6-fb411046b7da.PNG)
+![4-Ubuntu_download](https://user-images.githubusercontent.com/80440848/190415964-2081f2a4-926d-4e7d-902f-63384ac1216e.PNG)
 
 ## 4- 仮想マシンの作成
 
